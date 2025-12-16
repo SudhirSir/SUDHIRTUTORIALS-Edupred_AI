@@ -2,7 +2,7 @@ from flask import Flask, request, render_template_string
 import pandas as pd
 import numpy as np
 import json
-
+import os
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
