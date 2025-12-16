@@ -12,7 +12,8 @@ from sklearn.metrics import r2_score, accuracy_score
 # =====================================================
 # DATA LOAD
 # =====================================================
-df = pd.read_excel("C:\\Users\\Sushil\\OneDrive\\Documents\\Desktop\\Vth Sem Material\\Student_Flask_App\\FINAL_Coaching_Dataset_CLEAN_v4.xlsx")
+df = pd.read_excel("FINAL_Coaching_Dataset_CLEAN_v4.xlsx")
+
 
 df.columns = (
     df.columns.str.strip().str.lower()
@@ -313,8 +314,6 @@ def analytics():
 # RUN
 # =====================================================
 if __name__ == "__main__":
-    import webbrowser
-    webbrowser.open("http://127.0.0.1:5000")
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=10000)
 
 
