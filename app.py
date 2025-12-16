@@ -117,7 +117,7 @@ MAIN_HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-<title>SUDHIR TUTORIALS - Edupredict AI</title>
+<title>SUDHIR TUTORIALS - EduPred AI</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
 body{background:#0f2027;color:white;}
@@ -127,7 +127,7 @@ footer{text-align:center;color:#aaa;margin-top:50px;}
 </head>
 <body class="container py-5">
 
-<h1 class="text-center">SUDHIR TUTORIALS - Edupredict AI</h1>
+<h1 class="text-center">SUDHIR TUTORIALS - EduPred AI</h1>
 <p class="text-center text-muted">Intelligent Student Prediction System</p>
 
 <form method="POST" class="mt-4">
@@ -166,7 +166,7 @@ footer{text-align:center;color:#aaa;margin-top:50px;}
 {% endif %}
 
 <footer>
-© 2025 SUDHIR TUTORIALS - Edupredict AI
+© 2025 SUDHIR TUTORIALS - EduPred AI
 </footer>
 
 </body>
@@ -180,7 +180,7 @@ ANALYTICS_HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-<title>SUDHIR TUTORIALS - Edupredict AI</title>
+<title>SUDHIR TUTORIALS - EduPred AI</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
@@ -213,7 +213,7 @@ footer{text-align:center;color:#ccc;margin-top:40px;}
 </div>
 
 <footer>
-© 2025 SUDHIR TUTORIALS - Edupredict AI
+© 2025 SUDHIR TUTORIALS - EduPred AI
 </footer>
 
 <script>
