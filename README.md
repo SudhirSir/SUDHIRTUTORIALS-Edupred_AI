@@ -1,8 +1,4 @@
-# SUDHIRTUTORIALS-Edupred_AI
-SUDHIR TUTORIALS – EduPred AI is an AI-powered educational intelligence system built with Flask and Scikit-Learn. It predicts student performance, pass/fail outcomes, dropout and fee risks, and learning patterns using ML models trained on real coaching institute data, supported by interactive visualizations and a modern UI.
-
-
-# 🎓 SUDHIR TUTORIALS – EduPred AI
+🎓 SUDHIR TUTORIALS – EduPred AI
 
 EduPred AI is a machine learning–driven educational intelligence platform that predicts student performance and academic risk factors using real-world coaching institute data. The project demonstrates the application of supervised and unsupervised learning models in a production-ready Flask web application.
 
